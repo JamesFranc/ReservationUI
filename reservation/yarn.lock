@@ -188,6 +188,11 @@
   resolved "https://registry.yarnpkg.com/@angular/core/-/core-9.1.7.tgz#0465c26d9101389602e3ff9e502f83f3655e9fe1"
   integrity sha512-uJSZ+rdGL47gc3A+Fal1XwJYB4WWpYJrNifvoQ2nOs+X5Qu+j0HN6GXPJb4kixoNzjYCGxmLoirdT3xhNZFcfQ==
 
+"@angular/flex-layout@^9.0.0-beta.30":
+  version "9.0.0-beta.30"
+  resolved "https://registry.yarnpkg.com/@angular/flex-layout/-/flex-layout-9.0.0-beta.30.tgz#ca18411a8842dcfe3d175931a6ff765e8c76f950"
+  integrity sha512-aPiw9sfuXpV99oFtbIbTJYC+GtubdggP66qO0JH5MCX+J8btCGAOJMf9RPJWx2yyh/VoSBOt2nWSYqcY5OEv+g==
+
 "@angular/forms@~9.1.6":
   version "9.1.7"
   resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-9.1.7.tgz#cdefbc7c7093fd37b417975f18b875a798cbd2d9"
